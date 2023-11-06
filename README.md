@@ -1,4 +1,3 @@
 # QuestExample
 
-
-![Screenshotmain](https://github.com/STALKSA/QuestExample/assets/109988277/797925b0-6f51-4fcb-885b-15a657bdacbc)
+![QuestComponent](https://github.com/STALKSA/QuestExample/assets/109988277/cf683e4b-8337-499b-b0b4-e33bdda81366)
